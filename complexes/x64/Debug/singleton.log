@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (singleton.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  complex.cpp
+  complexmain.cpp
+  Génération de code en cours...
+C:\Users\PC\source\repos\singleton\singleton\complex.cpp(87,1): warning C4172: retour de l’adresse de la variable locale ou temporaire : elem
+  singleton.vcxproj -> C:\Users\PC\source\repos\singleton\x64\Debug\Complex.exe
